@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640134251343",
+    "project_id": "game-news-64a79",
+    "storage_bucket": "game-news-64a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640134251343:android:818ef874d3ce2b2f80bb3a",
+        "android_client_info": {
+          "package_name": "com.game.gameblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640134251343-h2peum1ctvmu16k9mkkfpp4i7arr7ejp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1NWRAm8Lk4XKB6vII0_FXRQx3OGXMxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640134251343-h2peum1ctvmu16k9mkkfpp4i7arr7ejp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
